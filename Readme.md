@@ -32,6 +32,12 @@ Chest Board added [here](https://github.com/moezdurrani/tinyRayTracer/blob/main/
 
 <img src="https://github.com/moezdurrani/tinyRayTracer/blob/main/Images/08.png">
 
+The background is replaced with a circular image [here](https://github.com/moezdurrani/tinyRayTracer/blob/main/Codes/Environment.cpp).
+
+<img src="https://github.com/moezdurrani/tinyRayTracer/blob/main/Images/09.jpg">
+
+
+
 
 
 
